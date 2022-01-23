@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Qr Code Maker Made With PhP](https://dev.to/princejaiswal/qr-code-maker-made-with-php-3d43)
 - [My Portfolio Made With ReactJS](https://dev.to/princejaiswal/my-portfolio-made-with-reactjs-2d09)
 - [Typing Effect | Css](https://dev.to/princejaiswal/typing-effect-css-23a8)
 - [GLASSMORPHISM CREDIT CARD](https://dev.to/princejaiswal/glassmorphism-credit-card-58ck)
-- [Website Scraper | NodeJS](https://dev.to/princejaiswal/website-scraper-nodejs-4323)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
