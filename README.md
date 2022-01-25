@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RoadMap To Become Frontend Developer](https://dev.to/princejaiswal/roadmap-to-become-frontend-developer-3d6n)
 - [Create Beautiful GitHub Profile ReadMe](https://dev.to/princejaiswal/create-beautiful-github-profile-readme-1nc8)
 - [Qr Code Maker Made With PhP](https://dev.to/princejaiswal/qr-code-maker-made-with-php-3d43)
 - [My Portfolio Made With ReactJS](https://dev.to/princejaiswal/my-portfolio-made-with-reactjs-2d09)
-- [Typing Effect | Css](https://dev.to/princejaiswal/typing-effect-css-23a8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
